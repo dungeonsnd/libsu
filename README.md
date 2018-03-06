@@ -4,6 +4,15 @@ A library to add smooth upgrade function to your long tcp connection server.
 project sponsor: Jeffery email: dungeonsnd@126.com, dungeonsnd@gmail.com
 
 
+
+2015年11月25日专利被授权和公开，地址如下。源码暂不公司，抱歉。
+
+http://www.patexplorer.com/patent/view.html?patid=CN201510411325.3&sc=&q=CN201510411325.3&fq=&sort=&sortField=&page=1&rows=10#1/CN201510411325.3/detail/abst
+
+
+------------------------------------------------------------------------
+
+
 作者在开发实践中独立设计了一套对于tcp长连接进行平滑升级的方案.本项目旨在提炼这样的一个库，方便服务器架构和开发者集成平滑升级功能到自己的tcp长连接服务器中，以提高他们的应用可用性.
 
 本项目仅支持类Unix环境(但时间关系仅在linux2.6.32及以上平台测试及使用过), 作者暂无支持其它环境的开发计划.
