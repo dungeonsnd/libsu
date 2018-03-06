@@ -5,7 +5,9 @@ project sponsor: Jeffery email: dungeonsnd@126.com, dungeonsnd@gmail.com
 
 
 
-2015年11月25日专利被授权和公开，地址如下。源码暂不公司，抱歉。
+2015年11月25日专利被授权和公开，地址如下。源码暂不公开，抱歉。
+
+The patent has been authorized and opened to public. You can check out the patent with the link follow. Sorry for not openning the source code.
 
 http://www.patexplorer.com/patent/view.html?patid=CN201510411325.3&sc=&q=CN201510411325.3&fq=&sort=&sortField=&page=1&rows=10#1/CN201510411325.3/detail/abst
 
